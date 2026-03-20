@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: yemen-land-api
+    runtime: php
+    plan: free
+    region: frankfurt
